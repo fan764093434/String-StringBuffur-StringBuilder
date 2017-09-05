@@ -62,7 +62,7 @@ StringBuilder：线程不安全
 3. 多线程下操作大量数据用StringBuffer。
 
 
-[http://www.cnblogs.com/A_ming/archive/2010/04/13/1711395.html](感谢这篇博客)
+[感谢这篇博客](http://www.cnblogs.com/A_ming/archive/2010/04/13/1711395.html)
 
 
 
