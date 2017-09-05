@@ -61,3 +61,9 @@ StringBuilder：线程不安全
 2. 单线程下操作大量数据用StringBuilder；
 3. 多线程下操作大量数据用StringBuffer。
 
+
+[http://www.cnblogs.com/A_ming/archive/2010/04/13/1711395.html](感谢这篇博客)
+
+
+
+如果这篇文章有幸被您看到，很多人觉得我是做无用功，把人家的博客抄一遍有什么用，但是我觉得把人家的博客看一遍还不是抄一遍！！！
